@@ -19,7 +19,7 @@ The goal of this project is to help the company understand and make a decision w
 <a id='probability'></a>
 #### [Part I - Probability](#probability) 
   
-  Part I assesses the likelihood of conversion and includes data wranggling to address descipancies,         though not the focus of this project but essential to the overall outcome of the test analysis.
+  Part I assesses the likelihood of conversion and includes data wrangling to address descipancies,         though not the focus of this project but essential to the overall outcome of the test analysis.
 
 <a id='ab_test'></a>
 #### [Part II - A/B Test](#ab_test) 
