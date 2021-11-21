@@ -9,8 +9,8 @@
 <a id='intro'></a>
 #### Introduction
 
-Analyze A/B TesT Results a is project within Udacity Nanaodegree program.
-This project is geared to understand the results of an A/B test run by an ecommerce website. The copmpany has developed a new web page in order to increase number of users who convert to paid services and products.
+Analyze A/B Test Results is a project within Udacity Nanaodegree program.
+The project is geared to understand the results of an A/B test run by an ecommerce website. The copmpany developed a new web page in order to increase number of users who convert to paid services and products.
 
 The goal of this project is to help the company understand and make a decision whether to implement the new page, Keep old page, or run the experiment much longer.
   
